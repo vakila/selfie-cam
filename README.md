@@ -2,7 +2,7 @@
 
 This is a companion repo for the [Vanilla JavaScript Projects](https://frontendmasters.com/courses/javascript-projects/) course on [Frontend Masters](https://frontendmasters.com).
 
-Project demo: [anjana.dev/meme-me](https://anjana.dev/meme-me/)
+Project demo: [anjana.dev/selfie-cam](https://anjana.dev/selfie-cam/)
 
 ## GitHub Pages Instructions
 
