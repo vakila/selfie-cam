@@ -2,6 +2,8 @@
 
 This is a companion repo for the [Vanilla JavaScript Projects](https://frontendmasters.com/courses/javascript-projects/) course on [Frontend Masters](https://frontendmasters.com).
 
+Project demo: [anjana.dev/meme-me](https://anjana.dev/meme-me/)
+
 ## GitHub Pages Instructions
 
 Follow the steps below to deploy your own version of this project to GitHub Pages.
